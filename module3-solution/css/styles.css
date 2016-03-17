@@ -1,0 +1,20 @@
+.section{
+	background-color: #e6e6e6;
+	padding: 10px;
+}
+
+#chicken{
+	height: 1000px; /*Use 'auto' for OPTIONAL UNGRADED PORTION*/
+	margin-bottom: 25px;
+}
+
+/*OPTIONAL UNGRADED PORTION*/
+/*#beef{
+	height: auto;
+	margin-bottom: 25px
+}
+
+#sushi{
+	height: auto;
+	margin-bottom: 25px;
+}*/
